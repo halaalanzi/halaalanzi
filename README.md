@@ -42,5 +42,7 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 
 <br>
 
+
+
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hala-alenazi-5768a8196/	)

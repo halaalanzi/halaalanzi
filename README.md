@@ -7,6 +7,10 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 * 🧠 i learn machine learning and deep learning 
 * 🌐 Design and develop machine learning , deep learning models 
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hala-alenazi-5768a8196/	)
+
+
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
@@ -39,17 +43,6 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 [<img align="left" alt="Sklearn" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />]()
 
 
-
-
 <br>
-<BR>
 
 
-
-
-
-
-
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hala-alenazi-5768a8196/	)

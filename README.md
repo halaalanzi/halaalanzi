@@ -1,4 +1,6 @@
-<h2>Hi 👋, I'm HALA </h2>
+<h2> Hello World, my name is Hala </h2>
+
+I'm a Data Scientist، who makes the data useful ..
 
 I create web apps in `Python ` and build machine learning and deep learning models using sklearn , tensoflow , keras and more 
 
